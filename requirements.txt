@@ -12,7 +12,7 @@ numpy==1.26.4
 
 # Machine Learning
 scikit-learn==1.5.0
-tensorflow==2.16.1       # CPU build; use tensorflow-gpu for GPU
+tensorflow==2.19.0      # CPU build; use tensorflow-gpu for GPU
 
 # Visualisation
 matplotlib==3.9.0
