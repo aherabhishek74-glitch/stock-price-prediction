@@ -1,0 +1,26 @@
+# ============================================================
+#  Stock Price Prediction — LSTM
+#  requirements.txt
+# ============================================================
+#  Install with:  pip install -r requirements.txt
+# ============================================================
+
+# Data
+yfinance==0.2.38
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.5.0
+tensorflow==2.16.1       # CPU build; use tensorflow-gpu for GPU
+
+# Visualisation
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Web Dashboard
+streamlit==1.36.0
+
+# Jupyter (optional, for notebooks)
+jupyter==1.0.0
+ipykernel==6.29.5
